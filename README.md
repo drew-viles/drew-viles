@@ -15,13 +15,13 @@
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
     <h1>
-      Welcome
+      Hi!
     </h1>
 </div>
 
 ---
 
-### :technologist: About Me :
+### :technologist: About Me:
 You'll find a lot of random stuff here from projects I'm actively developing to things I've started and abandoned (
 because I've discovered someone
 did it better or I no longer need it).
@@ -40,7 +40,7 @@ I work with and mainly focus on projects that are related to Kubernetes but you 
 
 ---
 
-### :hammer_and_wrench: Main Languages and Tools (not an exhaustive list) :
+### :hammer_and_wrench: Main Languages and Tools (not an exhaustive list):
 <div id="languages-tools" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/>&nbsp;
@@ -50,7 +50,7 @@ I work with and mainly focus on projects that are related to Kubernetes but you 
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+### :fire: My Stats:
 <div id="streak" align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drew-viles&theme=dark&background=000000)](https://git.io/streak-stats)
