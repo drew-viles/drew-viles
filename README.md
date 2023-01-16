@@ -34,7 +34,7 @@ I work with and mainly focus on projects that are related to Kubernetes but you 
 
 - :seedling: Exploring ML/AI using GPUs in Kubernetes
 
-- :zap: In my free time, I make unwatched YouTube videos on Linux and Kubernetes and game - a bit too much.
+- :zap: In my free time, I make unwatched YouTube videos on Linux and Kubernetes and I game - a bit too much.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/drew-hudson-viles/)
 
