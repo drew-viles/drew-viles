@@ -1,4 +1,4 @@
-<div id="badges" align="center">
+<div id="top-image" align="center">
     <img src="https://media1.giphy.com/media/Dy5InLmd7AZm8/giphy.gif?cid=ecf05e47esqg9kb0xy411ccm8ajmaov5lrn1b8itm307rkz0&rid=giphy.gif&ct=g" width="160px"/>
 </div>
 <div id="badges" align="center">
@@ -41,16 +41,19 @@ I work with and mainly focus on projects that are related to Kubernetes but you 
 ---
 
 ### :hammer_and_wrench: Main Languages and Tools (not and exhaustive list) :
-<div>
+<div id="languages-tools" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
+<div id="streak" align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drew-viles&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drew-viles&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
