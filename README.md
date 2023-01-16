@@ -1,2 +1,2 @@
-# .github
-Just my landing page!
+# .github-readme
+Github landing page README
