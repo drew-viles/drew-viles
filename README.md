@@ -31,7 +31,7 @@ I'll try and keep on top of marking things as abandoned where I can. 🙈
 
 I work with and mainly focus on projects that are related to Kubernetes but you will possibly find other stuff here too.
 
-- 🔭 I’m working as Senior Cloud Native Engineer for (tba)
+- 🔭 I’m working as Senior Kubernetes & Security Engineer for @nscaledev
 
 - 🌱 Exploring ML/AI using GPUs in Kubernetes
 
