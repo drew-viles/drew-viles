@@ -22,16 +22,16 @@
 ---
 
 ### 🧑‍💻 About Me:
-I've done the old CKA and CKS and here you'll find a lot of random stuff from projects I'm actively developing, to things I've started and abandoned (
+I've done the CKA and CKS and here you'll find a lot of random stuff from projects I'm actively developing, to things I've started and abandoned (
 because I've discovered someone did it better or I no longer need it).
 
-I also maintain projects over on [Drewbernetes](https://github.com/drewbernetes)!
+I also maintain projects over on [Drewbernetes](https://github.com/drewbernetes) because I decided to split my slightly more useful projects out over there - plus it's a place to dump stuff for my YouTube content.
 
 I'll try and keep on top of marking things as abandoned where I can. 🙈
 
 I work with and mainly focus on projects that are related to Kubernetes but you will possibly find other stuff here too.
 
-- 🔭 I’m working as Senior Cloud Native Engineer for @eschercloudai
+- 🔭 I’m working as Senior Cloud Native Engineer for (tba)
 
 - 🌱 Exploring ML/AI using GPUs in Kubernetes
 
